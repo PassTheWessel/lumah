@@ -12,5 +12,6 @@
     "type": "git",
     "url": "https://www.github.com/PassTheWessel/lumah"
   },
+  "scripts": { "test": "node ./test.js" },
   "keywords": [ "test", "console", "lumah", "testing", "framework", "async", "lightweight" ]
 }
