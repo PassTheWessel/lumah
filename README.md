@@ -6,7 +6,7 @@
   <br />
   <p>
     <a href="#"><img src="https://packagephobia.now.sh/badge?p=lumah" alt="Install Size" /></a>
-    <a href="#"><img src="https://travis-ci.org/PassTheWessel/lumah.svg?branch=master" alt="Travis build" /></a>
+    <a href="https://travis-ci.org/PassTheWessel/lumah"><img src="https://travis-ci.org/PassTheWessel/lumah.svg?branch=master" alt="Travis build" /></a>
     <a href="https://discord.gg/SV7DAE9"><img src="https://discordapp.com/api/guilds/107131083958538240/embed.png" alt="Discord" /></a>
     <a href="https://www.npmjs.com/package/lumah"><img src="https://img.shields.io/npm/v/lumah.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/lumah"><img src="https://img.shields.io/npm/dt/lumah.svg?maxAge=3600" alt="NPM version" /></a>
