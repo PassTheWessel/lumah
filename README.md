@@ -19,7 +19,7 @@
 
 > A simple and lightweight testing framework for Node.js
 
-> [GitHub](https://www.github.com/PassTheWessel/Kirbe) **|** [NPM](https://www.npmjs.com/package/kirbe)
+> [GitHub](https://www.github.com/PassTheWessel/lumah) **|** [NPM](https://www.npmjs.com/package/lumah)
 
 ## Installing
 ```sh
