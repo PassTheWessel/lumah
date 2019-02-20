@@ -5,6 +5,7 @@
   "author": "Wessel \"wesselgame\" T <discord@go2it.eu>",
   "license": "MIT",
   "main": "lib/index.js",
+  "types": "index.d.ts",
   "files": [ "lib", "LICENSE" ],
   "bugs": { "url": "https://www.github.com/PassTheWessel/lumah/issues" },
   "homepage": "https://www.github.com/PassTheWessel/lumah#readme",
